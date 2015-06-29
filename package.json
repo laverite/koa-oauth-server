@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thomseddon/koa-oauth-server"
+    "url": "git://github.com/thomseddon/koa-oauth-server"
   },
   "keywords": [
     "koa",
@@ -21,7 +21,7 @@
   },
   "license": "Apache 2.0",
   "dependencies": {
-    "oauth2-server": "https@github.com:thomseddon/node-oauth2-server.git#master",
+    "oauth2-server": "git@github.com:thomseddon/node-oauth2-server.git#master",
     "thenify": "^3.0.0"
   },
   "devDependencies": {
