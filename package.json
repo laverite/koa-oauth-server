@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/thomseddon/koa-oauth-server"
+    "url": "https://github.com/thomseddon/koa-oauth-server"
   },
   "keywords": [
     "koa",
